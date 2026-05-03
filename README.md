@@ -1,6 +1,6 @@
 # Create Config File Design
 
-This is a code bundle for Create Config File Design. The original project is available
+This is a code bundle for Create Config File Design
 
 
 ## Running the code
