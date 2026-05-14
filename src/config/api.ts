@@ -1,5 +1,5 @@
 export const API_CONFIG = {
-    BASE_URL: 'https://lms-production-da0a.up.railway.app',
+    BASE_URL: 'https://lms-production-a750.up.railway.app',
     LMS_PREFIX: '/lms',
 };
 
